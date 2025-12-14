@@ -14,7 +14,7 @@ Unlike standard predictions that rely on averages, this application simulates th
 * *"How likely is Valencia C.F. to qualify for Europe?"*
 
 ## 🚀 Live Demo
-*(If you deploy this app to Streamlit Cloud, paste the link here)*
+https://montecarlo-laligapredictions-efdqsrx9jffcsn6d34kpc5.streamlit.app/
 
 ## 📊 Key Features
 * **Stochastic Simulation:** The season is modeled matchday-by-matchday using `SimPy`. Every game is treated as a discrete event where the winner is determined stochastically based on historical win rates.
